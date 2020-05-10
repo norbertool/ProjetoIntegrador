@@ -11,7 +11,7 @@
 #define sensorCen A1 // Sensor Centro Branco
 
 #define velocidade 75 // Velocidade Constante
-#define correcaoMotor 30 // Correção
+#define correcaoMotor 30 // CorreÃ§Ã£o
 
 int velA;
 int velB;
